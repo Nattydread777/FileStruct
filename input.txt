@@ -1,0 +1,5 @@
+Python is fun to learn.
+I am practicing file handling.
+Data science uses Python a lot.
+Learning step by step makes me better.
+Practice leads to mastery.
